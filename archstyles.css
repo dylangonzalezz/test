@@ -1,0 +1,22 @@
+li.m-menubar__item {
+float: left;}
+
+.m-menubar__item--link{
+padding: 10px 10px;
+color: gray;
+text-align: center;
+text-decoration: none;
+display: inline-block;}
+
+.m-menubar__item--icon{
+padding: 10px 10px;
+color: gray;
+text-align: center;
+text-decoration: none;
+display: inline-block;}
+
+.m-menubar{
+	list-style-type: none;
+	padding-left: 50%;
+}
+
